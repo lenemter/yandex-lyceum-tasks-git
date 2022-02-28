@@ -7,3 +7,16 @@ index 6988c8d..975e13a 100644
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
  
  You must receive some image as in demo branch
+
+Комментарии?
+Forgot hometask.txt
+Merge branch '3.4.boots_buttons' into 3.4
+Merge remote-tracking branch 'origin/hat' into 3.4
+Merge remote-tracking branch 'origin/buttons' into 3.4.boots_buttons
+Merge remote-tracking branch 'origin/boots' into 3.4.boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
