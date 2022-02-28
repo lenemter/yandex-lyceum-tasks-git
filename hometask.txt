@@ -1,0 +1,9 @@
+diff --git a/README b/README
+index 6988c8d..975e13a 100644
+--- a/README
++++ b/README
+@@ -1,3 +1,3 @@
+-Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
++Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+ 
+ You must receive some image as in demo branch
